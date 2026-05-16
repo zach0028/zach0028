@@ -18,11 +18,6 @@ Currently shipping conversational AI at production scale.
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
 
-## 📊 GitHub Stats:
-
-<a href="https://github.com/zach0028">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zach0028&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zach0028&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+## 📊 My Contributions:
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zach0028&theme=tokyo-night&hide_border=true&custom_title=My%20Contributions)
