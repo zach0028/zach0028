@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Zacharie
+# Hi, I'm Zacharie
 
-### AI Engineer · Paris
+### Applied AI Engineer · Paris
 
 Applied AI. Retrieval, agentic workflows, evaluation.
 Currently shipping conversational AI at production scale.
 
 ---
 
-## 🛠️ Tech Stack:
+## Tech Stack:
 
 **Languages**
 
@@ -16,18 +16,24 @@ Currently shipping conversational AI at production scale.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend & Infra**
+**AI & Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**Data & Infra**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 💻 Working on:
+## Working on:
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
 
-## 📊 My Contributions:
+## My Contributions:
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zach0028&theme=tokyo-night&hide_border=true&custom_title=My%20Contributions)
