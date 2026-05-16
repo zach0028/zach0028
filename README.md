@@ -20,6 +20,9 @@ Currently shipping conversational AI at production scale.
 
 ## 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zach0028&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/zach0028">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zach0028&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zach0028&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zach0028&theme=tokyo-night&hide_border=true&custom_title=My%20Contributions)
