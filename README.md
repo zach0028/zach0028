@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zacharie
 
-### AI Engineer · Paris
+### Applied AI Engineer · Paris
 
 Applied AI. Retrieval, agentic workflows, evaluation.
 Currently shipping conversational AI at production scale.
