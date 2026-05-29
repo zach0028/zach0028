@@ -3,7 +3,6 @@
 ### Applied AI Engineer · Paris
 
 Applied AI. Retrieval, agentic workflows, evaluation.
-Currently shipping conversational AI at production scale.
 
 ---
 
@@ -19,13 +18,11 @@ Currently shipping conversational AI at production scale.
 **AI & Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Data & Infra**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
