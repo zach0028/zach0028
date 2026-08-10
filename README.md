@@ -1,6 +1,4 @@
-# Hi, I'm Zacharie
-
-### Applied AI Engineer · Paris
+### AI Engineer
 
 Applied AI. Retrieval, agentic workflows, evaluation.
 
